@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.AssemblyInfo.cs
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\bin\Debug\net7.0\figure_scale.exe
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\bin\Debug\net7.0\figure_scale.deps.json
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\bin\Debug\net7.0\figure_scale.runtimeconfig.json
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\bin\Debug\net7.0\figure_scale.dll
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\bin\Debug\net7.0\figure_scale.pdb
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.dll
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\refint\figure_scale.dll
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.pdb
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\figure_scale.genruntimeconfig.cache
+C:\Users\alex\geekbrains\SEMINAR5\figure_scale\obj\Debug\net7.0\ref\figure_scale.dll
